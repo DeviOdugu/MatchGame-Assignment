@@ -1,0 +1,14 @@
+.text {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.active {
+  color: #fec653;
+  border-bottom: 4px solid #fec653;
+}
+
+.lists {
+  list-style-type: none;
+  padding-right: 30px;
+}
